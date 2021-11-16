@@ -1,4 +1,3 @@
 3rd
-test git diff3rd
-test git diff3rd
 test git diff
+dev A
